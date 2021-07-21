@@ -1,4 +1,0 @@
-g++ -o j slapjack.cpp
-./j
-
- 
