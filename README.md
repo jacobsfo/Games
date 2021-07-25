@@ -1,4 +1,5 @@
 # Tic Tac Toe(Linux)
+Note: Use laptop with a keypad or external keyboard with a keypad to play.
 # Step 1 
 Go to latest release and click on done executable
 # Step 2
